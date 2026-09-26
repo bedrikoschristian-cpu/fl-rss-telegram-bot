@@ -29,7 +29,6 @@ python bot.py
 - `/check` — проверить сейчас
 - `/pause`, `/resume` — выключить / включить уведомления
 
-## Сте[requirements.txt](https://github.com/user-attachments/files/32686433/requirements.txt)
-к
+## Стек
 
 Python, aiogram 3, aiohttp, feedparser, SQLite.
